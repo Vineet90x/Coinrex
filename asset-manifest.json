@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/Vineet90x/Coinrex/static/js/main.0c10aa7a.js",
+    "static/media/btc.png": "/Vineet90x/Coinrex/static/media/btc.04101b0b163c035fa57e.png",
+    "static/media/cat.png": "/Vineet90x/Coinrex/static/media/cat.42eb1dbb311e55ca8106.png",
+    "index.html": "/Vineet90x/Coinrex/index.html",
+    "main.0c10aa7a.js.map": "/Vineet90x/Coinrex/static/js/main.0c10aa7a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0c10aa7a.js"
+  ]
+}
