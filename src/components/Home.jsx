@@ -34,7 +34,7 @@ const Home = () => {
         fontWeight={'thin'}
         color={'whiteAlpha.900'}
       >
-        COINREX
+        COINREX 69
       </Text>
     </Box>
   );
